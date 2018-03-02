@@ -1,6 +1,6 @@
 {
-    "name": "adminarchitect/core",
-    "description": "Active Admin for Laravel.",
+    "name": "DanielProtopopov/core",
+    "description": "Active Admin for Laravel. (Fork of adminarchitect/core)",
     "authors": [
         {
             "name": "Endi",
